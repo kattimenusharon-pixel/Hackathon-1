@@ -1,2 +1,2 @@
-# Hackathon-1
+Hackathon-1
 Day 1
